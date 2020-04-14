@@ -17,7 +17,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 - An IDE of choice of your choice e.g Visual Studio Code
 - [Node.js](https://nodejs.org/en/) (minimum Node v7.6.0) 
-- [Firebase](https://firebase.google.com/) real-time database
 - Basic understanding JavaScript (ES6) 
 
 Please ensure you have Node and NPM installed before starting the tutorial.
