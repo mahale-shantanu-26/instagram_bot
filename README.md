@@ -1,7 +1,7 @@
 
 
 # instagram_bot
-An Instagram bot that helps automate regular Instagram activities such as; liking posts, follow users. These activities get us more followers as well as boost interaction on the content of our account.
+An Instagram bot that automates regular Instagram activities such as; liking posts, follow users. These activities get us more followers as well as boost interaction on the content of our account.
 
 ## Getting Started
 
