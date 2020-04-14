@@ -1,7 +1,7 @@
 class InstagramBot {
 
     constructor() {
-        this.config = require('./config/puppeteer.json');
+        this.config = require('./puppeteer.json');
     }
 
     async initPuppeter() {
