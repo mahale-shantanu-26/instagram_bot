@@ -1,5 +1,5 @@
 const Bot = require('./Bot');// this directly imports the index.js file
-const config = require('./Bot/config/puppeteer');
+const config = require('./Bot/puppeteer');
 
 const run = async () => {
     const bot = new Bot();
